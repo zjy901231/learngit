@@ -1,4 +1,6 @@
 This is my first Git demo.
 The Content is First.
 
+I add sth more.
+
 I add sth to the firstText.txt
