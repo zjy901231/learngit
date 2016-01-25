@@ -7,3 +7,4 @@ I add sth to the firstText.txt
 
 I add sth to Stage.
 
+I add sth to remote.
